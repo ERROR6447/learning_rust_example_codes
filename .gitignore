@@ -1,0 +1,25 @@
+# Compiled files
+/target/
+
+# Package files
+Cargo.lock
+
+# Generated documentation
+/target/doc/
+
+# Build artifacts and generated code
+**/*.rs.bk
+**/*.rs.bk.bak
+**/*.rs.bk.bak.bak
+**/*.rs.bak
+**/*.rs.bak.bak
+**/*.rs.orig
+**/*.rs.swp
+**/*.rs~
+
+# IDE-specific files (optional, you can remove these if you don't use the mentioned IDEs)
+.idea/
+.vscode/
+
+# Dependency directories (optional, you can remove these if you don't use these dependency managers)
+/vendor/
