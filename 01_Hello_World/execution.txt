@@ -1,0 +1,5 @@
+To Execute the program:
+rustc hello_world.rs
+
+then the executable is crated
+./hello_world
